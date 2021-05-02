@@ -1,20 +1,20 @@
 [
   {
-    "name": "FORCE11 Drupal production",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "force-11-drupal-production",
+    "name": "FORCE11 Drupal production - Pantheon host",
+    "url": "https://force11.org/",
+    "icon": "https://favicons.githubusercontent.com/force11.org",
+    "slug": "force-11-drupal-production-pantheon-host",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "time": 1942,
+    "timeDay": 1942,
+    "timeWeek": 1942,
+    "timeMonth": 1942,
+    "timeYear": 1942,
     "dailyMinutesDown": {}
   }
 ]
