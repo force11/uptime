@@ -4,7 +4,7 @@
     "url": "https://force11.org/",
     "icon": "https://favicons.githubusercontent.com/force11.org",
     "slug": "force-11-drupal-production-pantheon-host",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2306,
     "timeYear": 1988,
     "dailyMinutesDown": {
+      "2022-02-22": 0,
       "2022-02-07": 34,
       "2022-01-27": 459,
       "2022-01-26": 342,
