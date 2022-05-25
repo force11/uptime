@@ -1,20 +1,20 @@
 [
   {
-    "name": "FORCE11.org, Wordpress, Siteground host US",
+    "name": "FORCE11.org - Wordpress on Siteground host US.",
     "url": "https://force11.org/",
     "icon": "https://favicons.githubusercontent.com/force11.org",
-    "slug": "force-11-org-wordpress-siteground-host-us",
+    "slug": "force-11-org-wordpress-on-siteground-host-us",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4355,
-    "timeDay": 4355,
-    "timeWeek": 4355,
-    "timeMonth": 4355,
-    "timeYear": 4355,
+    "time": 4902,
+    "timeDay": 4902,
+    "timeWeek": 4902,
+    "timeMonth": 4902,
+    "timeYear": 4902,
     "dailyMinutesDown": {}
   }
 ]
