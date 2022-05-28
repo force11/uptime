@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/force11.org",
     "slug": "force-11-org-wordpress-on-siteground-host-us",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
-    "time": 4137,
-    "timeDay": 4801,
-    "timeWeek": 4137,
-    "timeMonth": 4137,
-    "timeYear": 4137,
+    "uptime": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 4246,
+    "timeDay": 5125,
+    "timeWeek": 4246,
+    "timeMonth": 4246,
+    "timeYear": 4246,
     "dailyMinutesDown": {
-      "2022-05-27": 11,
       "2022-05-26": 22
     }
   }
