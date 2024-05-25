@@ -4,7 +4,7 @@
     "url": "https://force11.org/",
     "icon": "https://icons.duckduckgo.com/ip3/force11.org.ico",
     "slug": "force-11-org-wordpress-on-siteground-host-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1930,
     "timeYear": 2334,
     "dailyMinutesDown": {
+      "2024-05-25": 0,
       "2024-05-17": 11,
       "2024-05-07": 19,
       "2024-04-28": 18,
